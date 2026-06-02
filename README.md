@@ -7,6 +7,7 @@ This project analyzes retail transaction data from 2009–2011 to uncover valuab
 Using Microsoft Excel, raw sales data was transformed into an interactive dashboard that helps stakeholders monitor key business metrics and make data-driven decisions.
 
 ---
+<img width="2804" height="1248" alt="Screenshot 2026-01-22 133733" src="https://github.com/user-attachments/assets/3c9730cf-bc35-4dcc-a054-ecf2a3a182e8" />
 
 ## 🎯 Business Objectives
 
